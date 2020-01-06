@@ -1,0 +1,5 @@
+Foo north=Bar west=Baz south=Qu-ux
+Mee north=Yoo west=Poo
+Lee north=Yee west=Loo
+Bar south=Foo west=Bee north=Lee
+Poo south=Ooo
